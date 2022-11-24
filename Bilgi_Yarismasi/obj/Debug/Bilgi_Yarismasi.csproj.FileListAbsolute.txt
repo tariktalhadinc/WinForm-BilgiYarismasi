@@ -1,0 +1,11 @@
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe.config
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.exe
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\bin\Debug\Bilgi_Yarismasi.pdb
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.AssemblyReference.cache
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.GenerateResource.cache
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.exe
+C:\Users\t.dinc\Desktop\Projects\Bilgi_Yarismasi\obj\Debug\Bilgi_Yarismasi.pdb
